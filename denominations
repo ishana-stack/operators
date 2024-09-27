@@ -1,0 +1,6 @@
+notes_100=(370//100)
+notes_50=((370%100)//50)
+notes_10=(((370%100)%50)//10)
+print(notes_100)
+print(notes_50)
+print(notes_10)
